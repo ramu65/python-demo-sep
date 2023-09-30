@@ -1,1 +1,4 @@
-# python-demo-sep
+# instructions
+
+cd src
+py main.py
